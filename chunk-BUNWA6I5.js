@@ -1,0 +1,1 @@
+import{Ca as t,Xa as n,Ya as s,hb as a}from"./chunk-5XPOE24S.js";import"./chunk-2NFLSA4Y.js";var p=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-pagos"]],decls:2,vars:0,template:function(e,m){e&1&&(n(0,"p"),a(1,"pagos works!"),s())},encapsulation:2})};export{p as PagosComponent};
